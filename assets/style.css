@@ -1,5 +1,27 @@
+/* * {
+  border: red solid 1px;
+} */
+
 :root {
   --mainBlue: #6cabdd;
   --silver: #c0c0c0;
   --darkBlue: #1c2c5b;
+}
+
+#name {
+  color: var(--darkBlue);
+  font-size: 60px;
+  font-weight: 600;
+}
+#headNav {
+  background-color: var(--mainBlue);
+}
+
+#headItem {
+  color: var(--silver);
+  font-size: 20px;
+}
+
+#navList {
+  right: -20px;
 }
