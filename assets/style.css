@@ -68,7 +68,11 @@
 }
 
 /* main body elements */
-.about-me,
+.about-me {
+  color: var(--darkBlue);
+  margin-top: 2rem;
+}
+
 .portfolio {
   color: var(--darkBlue);
   margin-top: 2rem;
