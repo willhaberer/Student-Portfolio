@@ -86,4 +86,10 @@
 
 .contact-list {
   list-style: none;
+  margin-top: 1rem;
+}
+
+#contact-item {
+  display: inline-block;
+  margin-left: 3rem;
 }
