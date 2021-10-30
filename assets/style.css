@@ -93,3 +93,12 @@
   display: inline-block;
   margin-left: 3rem;
 }
+
+/*footer section */
+footer {
+  background-color: var(--darkBlue);
+  color: var(--silver);
+  text-align: center;
+  font-size: 30px;
+  padding: 2rem;
+}
