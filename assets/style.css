@@ -8,20 +8,36 @@
   --darkBlue: #1c2c5b;
 }
 
+/* header elements */
 #name {
   color: var(--darkBlue);
   font-size: 60px;
   font-weight: 600;
 }
+
+/* navlist elements */
 #headNav {
-  background-color: var(--mainBlue);
+  background: rgb(192, 192, 192);
+  background: linear-gradient(
+    90deg,
+    rgba(192, 192, 192, 1) 0%,
+    rgba(108, 171, 221, 1) 16%,
+    rgba(28, 44, 91, 1) 100%
+  );
+}
+
+#navbar {
+  position: relative;
+}
+
+#navList {
+  position: absolute;
+  right: 30px;
 }
 
 #headItem {
   color: var(--silver);
-  font-size: 20px;
-}
-
-#navList {
-  right: -20px;
+  font-size: 30px;
+  font-weight: 500;
+  margin: 1rem;
 }
