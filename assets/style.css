@@ -56,3 +56,14 @@
   background-color: rgba(28, 44, 91, 0.4);
   color: var(--silver);
 }
+
+/* main body elements */
+.about-me {
+  color: var(--darkBlue);
+  margin-top: 2rem;
+}
+
+.sec-header {
+  padding-left: 5rem;
+  border-right: var(--mainBlue) solid 3px;
+}
