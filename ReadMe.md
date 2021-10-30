@@ -1,0 +1,1 @@
+This project was created to both create a portfolio to display other coding projects as well as to practice and display advanced css techniques. Additionally it was a goal of mine to make the page easily updateable in the future to add future projects to the portfolio section.
