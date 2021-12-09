@@ -1,1 +1,19 @@
-This project was created to both create a portfolio to display other coding projects as well as to practice and display advanced css techniques. Additionally it was a goal of mine to make the page easily updateable in the future to add future projects to the portfolio section.
+# Student Portfolio
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This Student Portfolio was created to practice best practices in web developement as well as to showcase past projects I have worked on.
+
+## Installation
+
+No installation necessary, this page is hosted through github.
+
+## Usage
+
+To view this application at https://willhaberer.github.io/Student-Portfolio/
+
+## Contributing
+
+This application was created by @willhaberer on Github.
+
+You can freely use this code to adapt it to your own projects
